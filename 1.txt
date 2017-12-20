@@ -6,13 +6,4 @@ test1.test.2.
 
 Test push
 
-하하하하하하
-
-
-공통 처리
-
-큰제목입니다.
-
-
-
-3번라인 추가.추가 됨.
+Test Commit Master
